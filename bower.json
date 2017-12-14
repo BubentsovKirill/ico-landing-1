@@ -1,0 +1,17 @@
+{
+  "name": "ico-landing-1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kirill Bubentsov <kirill.dm6@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
