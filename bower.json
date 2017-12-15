@@ -13,5 +13,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "smooth-scroll": "^1.4.0",
+    "materialize": "^0.100.2",
+    "font-awesome": "^4.7.0"
+  }
 }
